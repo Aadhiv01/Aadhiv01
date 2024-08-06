@@ -1,7 +1,7 @@
 ## Hey there, this is Aadhithya 👋
 
-[![Email](https://img.shields.io/badge/Email-aadhithya.vijayakumar01@gmail.com-blue)](mailto:aadhithya.vijayakumar01@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aadhithya%20Vijayakumar-blue)](https://linkedin.com/in/aadhithya-vijayakumar-av) 
+[![Email](https://img.shields.io/badge/Email-aadhithya.vijayakumar01@gmail.com-blue)](mailto:aadhithya.vijayakumar01@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aadhithya%20Vijayakumar-blue)](https://linkedin.com/in/aadhithya-vijayakumar-av) &nbsp;&nbsp;&nbsp;&nbsp;
 [![Phone](https://img.shields.io/badge/Phone-(385)%20456--7908-lightgrey)](tel:+13854567908)
 
 ---
@@ -20,61 +20,339 @@ Bachelor of Engineering in Electronics and Communication
 
 ## ⚙️ Technical Skills
 
-- **Programming**: 
-  - ![Java](https://img.shields.io/badge/Java-F8DC75?style=flat&logo=java&logoColor=000000)
-  - ![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=ffffff)
-  - ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=ffffff)
-  - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=ffffff)
-  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)
-  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
-  - ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=ffffff)
-  - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000000)
+<h2 align="center">Backend</h2>
 
-- **Database**: 
-  - ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=ffffff)
-  - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=ffffff)
-  - ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=ffffff)
-  - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=ffffff)
-  - ![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-2682FC?style=flat&logo=apachecassandra&logoColor=ffffff)
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="5" align="center" style="color: white;">Languages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://www.oracle.com/java/technologies/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="Java"/>
+        </a>
+        <br>Java
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" height="50" alt="C#"/>
+        </a>
+        <br>C#
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://cplusplus.com/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50" alt="C++"/>
+        </a>
+        <br>C++
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://www.php.net/" style="color: white;">
+          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg" width="50" height="50" alt="PHP"/>
+        </a>
+        <br>PHP
+    </tr>
+  </tbody>
+</table>
+</div>
 
-- **Frameworks**: 
-  - ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=ffffff)
-  - ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=ffffff)
-  - ![Django](https://img.shields.io/badge/Django-092D44?style=flat&logo=django&logoColor=ffffff)
-  - ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=ffffff)
-  - ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=flat&logo=aspnet&logoColor=ffffff)
-  - ![Blazor](https://img.shields.io/badge/Blazor-0C66C2?style=flat&logo=blazor&logoColor=ffffff)
-  - ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=000000)
-  - ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=ffffff)
-  - ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=flat&logo=angularjs&logoColor=ffffff)
-  - ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=ffffff)
-  - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=ffffff)
-  - ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=ffffff)
-  - ![NUnit](https://img.shields.io/badge/NUnit-009FC7?style=flat&logo=nunit&logoColor=ffffff)
-  - ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit&logoColor=ffffff)
-  - ![Pytest](https://img.shields.io/badge/Pytest-000000?style=flat&logo=pytest&logoColor=ffffff)
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="9" align="center" style="color: white;">Frameworks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Dark.svg" width="50" height="50" alt="Spring"/><br>Spring
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png" width="50" height="50" alt="Spring Boot"/><br>Spring Boot
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/><br>Django
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-net.svg" width="50" height="50" alt="Flask"/><br>.NET
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" width="50" height="50" alt="Flask"/><br>.NET Core
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Laravel-Dark.svg" width="50" height="50" alt="Flask"/><br>Laravel
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
-- **Tools and IDE**: 
-  - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=ffffff)
-  - ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=ffffff)
-  - ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=ffffff)
-  - ![SQL Developer](https://img.shields.io/badge/SQL%20Developer-6B2D6F?style=flat&logo=oracle&logoColor=ffffff)
-  - ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=ffffff)
-  - ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=ffffff)
-  - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=ffffff)
-  - ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=ffffff)
-  - ![ServiceNow](https://img.shields.io/badge/ServiceNow-0039A6?style=flat&logo=servicenow&logoColor=ffffff)
-  - ![Confluence](https://img.shields.io/badge/Confluence-003E6C?style=flat&logo=confluence&logoColor=ffffff)
-  - ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=ffffff)
-  - ![Cucumber](https://img.shields.io/badge/Cucumber-00D300?style=flat&logo=cucumber&logoColor=ffffff)
+<br>
 
-- **Cloud**: 
-  - ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=ffffff)
-  - ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=ffffff)
+<h2 align="center">Frontend</h2>
 
-- **Version Control**: 
-  - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=ffffff)
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="8" align="center" style="color: white;">Languages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
+        </a>
+        <br>HTML
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
+        </a>
+        <br>CSS
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
+        </a>
+        <br>JavaScript
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://www.typescriptlang.org/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
+        </a>
+        <br>TypeScript
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Frameworks</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://angular.dev/" style="color: white;">
+          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Angular-Dark.svg" width="50" height="50" alt="Angular"/>
+        </a>
+        <br>Angular
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://vuejs.org/" style="color: white;">
+          <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VueJS-Dark.svg" width="50" height="50" alt="Vue"/>
+        </a>
+        <br>Vue.js
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://jquery.com/" style="color: white;">
+          <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery"/>
+        </a>
+        <br>jQuery
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://tailwindcss.com/" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
+        </a>
+        <br>Tailwind CSS
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Libraries</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://reactjs.org/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
+        </a>
+        <br>React
+      </td><td align="center" style="border: none;">
+        <a href="https://redux.org/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="50" height="50"/>
+        </a>
+        <br>Redux
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<br>
+
+<h2 align="center">Database</h2>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" alt="Oracle" width="50" height="50"/><br>Oracle
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="SQLServer" width="50" height="50"/><br>MS SQL Server
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Cassandra-Dark.svg" alt="Cassandra" width="50" height="50"/><br>Apache Cassandra
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<br>
+
+<h2 align="center">Cloud Computing & DevOps</h2>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="4" align="center" style="color: white;">Containerization & Orchestration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Jenkins-Dark.svg" alt="Jenkins" width="50" height="50"/><br>Jenkins
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="3" align="center" style="color: white;">Operating Systems</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Windows-Dark.svg" alt="Windows" width="50" height="50"/><br>Windows
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="Ubuntu" width="50" height="50"/><br>Ubuntu
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<br>
+
+<h2 align="center">Testing and Automation</h2>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://icon.icepanel.io/Technology/svg/JUnit.svg" alt="JUnit" width="50" height="50"/><br>JUnit
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://raw.githubusercontent.com/mockito/mockito.github.io/master/img/logo%402x.png" alt="Mockito" width="50" height="50"/><br>Mockito
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://icon.icepanel.io/Technology/svg/pytest.svg" alt="Pytest" width="50" height="50"/><br>Pytest
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://raw.githubusercontent.com/nunit/nunit-console/main/nunit.ico" alt="NUnit" width="50" height="50"/><br>NUnit
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="50" height="50"/><br>Jest
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Selenium.svg" alt="Selenium" width="50" height="50"/><br>Selenium
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://user-images.githubusercontent.com/102477169/187096751-925c3f70-bf3b-42ee-9efa-21095fa384c4.png" alt="Cucumber" width="50" height="50"/><br>Cucumber
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
+<br>
+
+<h2 align="center">Version Control</h2>
+
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="50" height="50"/><br>Git
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 
 ---
 
@@ -127,8 +405,8 @@ Bachelor of Engineering in Electronics and Communication
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadhiv01&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadhiv01&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadhiv01&layout=compact&theme=radical) 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aadhiv01&theme=radical)](https://git.io/streak-stats)
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=Aadhiv01)](https://github.com/Aadhiv01)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aadhiv01&theme=radical)](https://git.io/streak-stats)<br>
+
