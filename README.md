@@ -358,8 +358,14 @@ Bachelor of Engineering in Electronics and Communication
 
 ## 💼 Experience
 
+### Java Software Developer | Goldman Sachs
+*Aug 2024 - Present*
+
+- Enhanced risk controls across critical team owned applications using Java/SpringBoot and Dropwizard frameworks integrated with relational databases, reducing risk exposure and    improving real-time compliance monitoring.
+- Streamlined deployment processed with CI/CD pipelines through GitLab and Bash automation scripts, reducing manual intervention, and increasing system reliability.
+
 ### Web Software Developer | University of Utah
-*Aug 2023 - Present*
+*Aug 2023 - Aug 2024*
 
 - Designed an application for easy scheduling of class meetings using Java, Spring Boot, Hibernate, JavaScript, React.js, and MySQL, reducing administrative workload by 40%.
 - Analyzed Zoom meeting interactions and details via SOAP API connections, C++ web scraping, and OAuth 2.0 for secure access.
