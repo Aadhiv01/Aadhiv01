@@ -411,18 +411,10 @@ previously provisioned to hold them.
 
 ---
 
-## 📂 Projects & Certifications
+## 📂 Certifications
 
-- **Quiz Master Application**: Developed an application using Python and SQL for students to complete quizzes categorized by topics, with automated percentage calculation.
 - **AWS Certified Solutions Architect Associate** ![AWS Certified Solutions Architect Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20Associate-232F3E?style=flat&logo=amazonaws&logoColor=ffffff)
 - **Oracle Certified Java Associate** ![Oracle Certified Java Associate](https://img.shields.io/badge/Oracle%20Certified%20Java%20Associate-F80000?style=flat&logo=oracle&logoColor=ffffff)
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aadhiv01&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical) &nbsp;&nbsp;&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadhiv01&layout=compact&theme=radical) 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aadhiv01&theme=radical)](https://git.io/streak-stats)<br>
 
