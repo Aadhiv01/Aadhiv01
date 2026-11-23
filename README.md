@@ -358,11 +358,21 @@ Bachelor of Engineering in Electronics and Communication
 
 ## 💼 Experience
 
-### Java Software Developer | Goldman Sachs
+### Software Engineer | Goldman Sachs
 *Aug 2024 - Present*
 
-- Enhanced risk controls across critical team owned applications using Java/SpringBoot and Dropwizard frameworks integrated with relational databases, reducing risk exposure and    improving real-time compliance monitoring.
-- Streamlined deployment processed with CI/CD pipelines through GitLab and Bash automation scripts, reducing manual intervention, and increasing system reliability.
+- Developed the team’s Python services on Flask behind the REST APIs for storage provisioning and management,
+replacing manual requests with automation.
+- Used Claude Code and GitHub Copilot across design discussions, implementation, and code review, and reviewed
+what came back before any of it shipped.
+- Handled production incidents on the team’s on-call rotation, from stuck reconciliation jobs to stale data, and turned
+each root cause into an alert or runbook so the next one was caught sooner.
+- Engineered Kafka-based change data capture for the team’s long-running reconciliation jobs, replacing scheduled
+batch extracts with change streams so downstream teams see data as it lands.
+- Designed Grafana dashboards and alerts behind the team’s reconciliation and backup runs, covering API health, job
+status, and capacity metrics for the storage products.
+- Migrated 90+ TB of long-term records from on-premises storage to AWS S3 archival, reclaiming the capacity
+previously provisioned to hold them.
 
 ### Web Software Developer | University of Utah
 *Aug 2023 - Aug 2024*
